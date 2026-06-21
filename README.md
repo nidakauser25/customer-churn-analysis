@@ -103,9 +103,9 @@ This project is hosted on GitHub:
 📧 Submission Details
 This project is submitted as part of internship evaluation.
 Internship Provider: CodTech IT Solutions
-Intern ID: CITS3942
+Intern ID: CITS3998
 Duration: 4 Weeks
-Submitted By: Shariqua Tabassum G
+Submitted By: Nida kauser
 👩‍💻 Developed By
-Shariqua Tabassum G
+Nida kauser 
 Intern – CodTech IT Solutions
