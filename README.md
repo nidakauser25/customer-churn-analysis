@@ -99,7 +99,7 @@ streamlit run app.py
 
 📌 GitHub Repository
 This project is hosted on GitHub:
-👉 https://github.com/shariqua06/customer-churn-analysis⁠�
+👉 https://github.com/nidakauser25/customer-churn-analysis/blob/main/README.md
 📧 Submission Details
 This project is submitted as part of internship evaluation.
 Internship Provider: CodTech IT Solutions
