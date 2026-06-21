@@ -8,8 +8,8 @@ This project was developed as part of a **4-week internship program** at **CodTe
 
 ## 👩‍💻 Intern Details
 
-- **Name:** Shariqua Tabassum G  
-- **Intern ID:** CITS3942  
+- **Name:** Nida kauser
+- **Intern ID:** CITS3998
 - **Duration:** 4 Weeks  
 - **Domain:** Artificial Intelligence / Data Science  
 
